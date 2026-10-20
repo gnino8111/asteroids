@@ -24,4 +24,11 @@ In the AI era it's easy to feel like our problem solving skills are being dulled
 
 # Scoring system
 
-You get points based on what size asteroid you shoot.
+You get points based on what size asteroid you shoot:
+| Size   | Points Earned |
+|--------|---------------|
+| Large  | 25            |
+| Medium | 50            |
+| Small  | 100           |
+
+Enjoy!
